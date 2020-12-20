@@ -20,6 +20,18 @@
 
 ## T-Tests on Suspension Coils
 
+Combined lots t-test
+![image](https://user-images.githubusercontent.com/70483866/102721732-4c87f800-42c2-11eb-9537-84fe17107352.png)
+
+Lot 1 t-test
+![image](https://user-images.githubusercontent.com/70483866/102721761-793c0f80-42c2-11eb-8df8-26a2b7ad591a.png)
+
+Lot2 t-test
+![image](https://user-images.githubusercontent.com/70483866/102721784-953fb100-42c2-11eb-83a6-362d0ba6d2de.png)
+
+Lot 3 t-test
+![image](https://user-images.githubusercontent.com/70483866/102721808-b4d6d980-42c2-11eb-948a-fba95d14eeb5.png)
+
 Given the results from running the t-tests, the p-value is 1.0 across each individual lot as well as for all 3 lots combined, which is far greater than the significance level of 0.05. Therefore, we would go ahead and fail to reject the null hypothesis stating that there is no statistically significant difference in the means across all 3 lots and that the difference is negligible. 
 
 ## Study Design: MechaCar vs Competition
