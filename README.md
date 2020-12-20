@@ -39,3 +39,19 @@
 Given the results from running the t-tests, the p-value is 1.0 across each individual lot as well as for all 3 lots combined, which is far greater than the significance level of 0.05. Therefore, we would go ahead and fail to reject the null hypothesis stating that there is no statistically significant difference in the means across all 3 lots and that the difference is negligible. 
 
 ## Study Design: MechaCar vs Competition
+
+### What metric or metrics are you going to test?
+
+To test vehicle performance between MechaCar and vehicles from the same class from other car manufacturers, we will analyze the city/highway fuel efficiency of each. This will specifically mean we'll be looking at their miles per gallon as a measure of distance traveled in miles for every gallon of fuel expended. 
+
+### What is the null hypothesis or alternative hypothesis?
+
+The null hypothesis will be that the difference in mean fuel efficieny between MechaCar and cars of the same class from other car manufacturers will be negligible or nearly the same. The alternative hypothesis in contrast will be that the difference in mean fuel efficiency between MechaCar and cars of the same class from other car manufacturers will be significantly different.
+
+### What statistical test would you use to test the hypothesis? And why?
+
+Since we are comparing how MechaCar performs against vehicles of the same class from multiple other manufacturing companies and will be comparing MechaCar versus the performance of several other cars and not just one, the most appropriate statistical test to run would be an ANOVA test rather than a 2-sample t-test, which would be comparing distribution means from two samples.
+
+### What data is needed to run the statistical test?
+
+We would need fuel efficiency data for a sample size in the ballpark of 50 cars of the same class from other car manufacturers to run a strong statistical comparison between the mean distribution of fuel efficiencies between MechaCar and cars of the same class from other manufacturers.
