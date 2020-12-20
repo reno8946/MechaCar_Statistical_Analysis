@@ -28,7 +28,7 @@
 
 ![image](https://user-images.githubusercontent.com/70483866/102721761-793c0f80-42c2-11eb-8df8-26a2b7ad591a.png)
 
-### Lot2 t-test
+### Lot 2 t-test
 
 ![image](https://user-images.githubusercontent.com/70483866/102721784-953fb100-42c2-11eb-83a6-362d0ba6d2de.png)
 
