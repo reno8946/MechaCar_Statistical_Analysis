@@ -20,7 +20,7 @@
 
 ## T-Tests on Suspension Coils
 
-### Combined lots t-test
+### Combined lots t-test (1-3)
 
 ![image](https://user-images.githubusercontent.com/70483866/102721732-4c87f800-42c2-11eb-9537-84fe17107352.png)
 
